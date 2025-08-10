@@ -6,7 +6,7 @@
 
 ## Current work
 - **osxphotos + MCP (new)** — End-to-end **MCP** integration for the macOS **Photos** library using the `osxphotos` engine. Tools: `find_photos`, `export_contact_sheet`, `explain_match`. Privacy-by-default (no image bytes; GPS redacted).  
-  **Repo:** https://github.com/JuliusBrussee/osxphotos
+  **Repo:** https://github.com/JuliusBrussee/osxphotos-mcp
 - **The Prompt Library** — production-ready prompts, schemas, MCP server & docs.  
   https://github.com/JuliusBrussee/the-prompt-library
 - **Christofides’ Algorithm** — classic TSP approximation with viz.  
