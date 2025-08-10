@@ -19,8 +19,3 @@
 - Ship native **iOS** features in **Swift/SwiftUI** using **Combine**, **SwiftData/CoreData**, **UIKit** where needed; integrate **Core ML/Vision** when relevant.  
 - Build and integrate services via **REST/GraphQL**; backend components with **Node.js** and **FastAPI**; data on **PostgreSQL/SQLite**.  
 - Own CI/CD with **Docker** + **GitHub Actions**
-
-<details>
-<summary><b>Keyword index (for recruiters & scrapers)</b></summary>
-iOS, Swift, SwiftUI, Xcode, Combine, SwiftData, CoreData, UIKit, Core ML, Vision, StoreKit, Apple frameworks, full-stack developer, software engineer, TypeScript, Python, React, Next.js, Node.js, FastAPI, REST, GraphQL, PostgreSQL, SQLite, Docker, CI/CD, GitHub Actions, Vercel, Cloudflare, testing, pytest, coverage, ESLint, Prettier, Ruff, Black, mypy, semantic versioning, conventional commits, security policy, CodeQL, Dependabot, prompt engineering, Model Context Protocol, MCP, osxphotos, Photos library, EXIF, ImageIO, OpenAI, Anthropic, Gemini, LangChain, LlamaIndex, algorithms, TSP, NetworkX, matplotlib.
-</details>
