@@ -1,20 +1,23 @@
 # Julius Brussee
-**Full-stack & iOS (Swift/SwiftUI) developer @ Locked In (closed-source) · AI tooling (MCP), LLM apps, production systems**  
+**Full-stack & iOS (Swift/SwiftUI) developer · open-source builder of Revu · AI tooling (MCP), LLM apps, and production systems**  
 [LinkedIn](https://www.linkedin.com/in/julius-brussee-58896a273/) • [Substack](https://neurabridge.substack.com)
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0D96F6) ![SwiftData](https://img.shields.io/badge/SwiftData-0D96F6) ![UIKit](https://img.shields.io/badge/UIKit-0D96F6) ![Core%20ML](https://img.shields.io/badge/Core%20ML-000000?logo=apple&logoColor=white) ![Vision](https://img.shields.io/badge/Vision-000000?logo=apple&logoColor=white) ![StoreKit](https://img.shields.io/badge/StoreKit-000000?logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-4B8BBE)
+
 ## Current work
-- **osxphotos + MCP (new)** — End-to-end **MCP** integration for the macOS **Photos** library using the `osxphotos` engine. Tools: `find_photos`, `export_contact_sheet`, `explain_match`. Privacy-by-default (no image bytes; GPS redacted).  
+- **Revu (open-source)** — a macOS-native study system for turning course material into a structured, durable learning workflow. Built in **Swift/SwiftUI**, with a focus on clean local-first architecture, spaced repetition, and serious academic use.  
+  **Repo:** https://github.com/JuliusBrussee/revu-swift
+- **osxphotos + MCP** — end-to-end **MCP** integration for the macOS **Photos** library using the `osxphotos` engine. Tools: `find_photos`, `export_contact_sheet`, `explain_match`. Privacy-by-default (no image bytes; GPS redacted).  
   **Repo:** https://github.com/JuliusBrussee/osxphotos-mcp
-- **The Prompt Library** — production-ready prompts, schemas, MCP server & docs.  
+- **The Prompt Library** — production-ready prompts, schemas, MCP server, and docs.  
   https://github.com/JuliusBrussee/the-prompt-library
-- **Christofides’ Algorithm** — classic TSP approximation with viz.  
+- **Christofides’ Algorithm** — classic TSP approximation with visualization.  
   https://github.com/JuliusBrussee/Christofides-Algorithm
-- **AI Stress Tests (ai-projects)** — tiny experiments probing LLM limits.  
+- **AI Stress Tests (ai-projects)** — small experiments probing LLM limits.  
   https://github.com/JuliusBrussee/ai-projects
 
 ## Experience
 **iOS & Full-stack Developer — Locked In** *(closed-source)*  
-- Ship native **iOS** features in **Swift/SwiftUI** using **Combine**, **SwiftData/CoreData**, **UIKit** where needed; integrate **Core ML/Vision** when relevant.  
-- Build and integrate services via **REST/GraphQL**; backend components with **Node.js** and **FastAPI**; data on **PostgreSQL/SQLite**.  
-- Own CI/CD with **Docker** + **GitHub Actions**
+- Built and shipped native **iOS** features in **Swift/SwiftUI**, using **Combine**, **SwiftData/CoreData**, and **UIKit** where appropriate; integrated **Core ML** and **Vision** when useful.  
+- Developed and connected backend services through **REST/GraphQL**; worked across **Node.js** and **FastAPI** with data stored in **PostgreSQL** and **SQLite**.  
+- Owned parts of delivery and developer workflow with **Docker** and **GitHub Actions**.
