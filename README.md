@@ -45,6 +45,10 @@ Your idea → /bp:draft → Blueprints → /bp:architect → Build site → /bp:
 
 9 specialized agents. 15 deep-dive skills. Parallel execution across git worktrees. Cross-model peer review.
 
+**Featured on:**
+
+[![Awesome Codex Plugins](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square&logo=github&label=awesome-codex-plugins&color=f0a500)](https://github.com/hashgraph-online/awesome-codex-plugins)
+
 `Go` `Claude Code` `Codex` `MIT`
 
 ---
