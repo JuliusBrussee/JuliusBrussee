@@ -19,7 +19,9 @@ Full-stack & iOS developer. Swift, TypeScript, Go. I build open-source dev tools
 **[Logo Designer](https://github.com/JuliusBrussee/logo-designer)** — Browser-based pixel grid → SVG/PNG logo editor. Marching squares + Bézier smoothing, layers, symmetry, light/dark/adaptive export. [Try it live →](https://JuliusBrussee.github.io/logo-designer/)
 `TypeScript` `React` `Vite`
 
-**[Stacklink](https://github.com/JuliusBrussee/stacklink)** — RAG layer over Google Drive. Syncs docs, chunks and embeds with pgvector, answers questions with citations via web UI or Slack.
+## Private
+
+**[Stacklink](https://stacklink.nl)** — RAG layer over Google Drive. Syncs docs, chunks and embeds with pgvector, answers questions with citations via web UI or Slack.
 `TypeScript` `Next.js` `Supabase` `pgvector` `Gemini`
 
 ## Work
