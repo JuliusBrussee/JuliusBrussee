@@ -16,7 +16,7 @@ Claude Code skill that cuts ~75% of output tokens by talking like caveman. Same 
 
 `Claude Code` `Codex`
 
-### [Blueprint](https://github.com/JuliusBrussee/blueprint) — specification-driven development for AI coding agents
+### [Cavekit](https://github.com/JuliusBrussee/cavekit) — specification-driven development for AI coding agents
 
 Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software — with automated iteration, validation, and dual-model adversarial review via Codex.
 
