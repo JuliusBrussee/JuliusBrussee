@@ -1,6 +1,6 @@
 # Julius Brussee
 
-Full-stack & iOS developer building tools that make AI agents actually work.
+19 year old full-stack developer building tools that actually respect your time.
 
 Swift, TypeScript, Go. Open-source dev tools, macOS apps, and AI agent infrastructure.
 
