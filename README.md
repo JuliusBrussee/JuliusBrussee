@@ -30,11 +30,6 @@ Decks, cards, exams, study guides, and FSRS-powered review sessions in one deskt
 `Swift` `SwiftUI` `FSRS` `SQLite`
 <br>Featured on: [![awesome-swift-macos-apps](https://img.shields.io/github/stars/jaywcjlove/awesome-swift-macos-apps?style=flat-square&logo=github&label=awesome-swift-macos-apps&color=f0a500)](https://github.com/jaywcjlove/awesome-swift-macos-apps) [![awesome-mac](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&logo=github&label=awesome-mac&color=f0a500)](https://github.com/jaywcjlove/awesome-mac) [![awesome-fsrs](https://img.shields.io/github/stars/open-spaced-repetition/awesome-fsrs?style=flat-square&logo=github&label=awesome-fsrs&color=f0a500)](https://github.com/open-spaced-repetition/awesome-fsrs) [![awesome-swiftui](https://img.shields.io/github/stars/onmyway133/awesome-swiftui?style=flat-square&logo=github&label=awesome-swiftui&color=f0a500)](https://github.com/onmyway133/awesome-swiftui)
 
-### [Logo Designer](https://github.com/JuliusBrussee/logo-designer) — pixel grid to production SVG
-
-Browser-based logo editor with marching squares + Bézier smoothing, layers, symmetry, light/dark/adaptive export. [Try it live →](https://JuliusBrussee.github.io/logo-designer/)
-
-`TypeScript` `React` `Vite`
 
 ---
 
