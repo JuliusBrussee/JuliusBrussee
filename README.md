@@ -4,8 +4,7 @@
 
 Swift, TypeScript, Go. Open-source dev tools, macOS apps, and AI agent infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/julius-brussee-58896a273/) · [Substack](https://neurabridge.substack.com)
-
+[LinkedIn](https://www.linkedin.com/in/julius-brussee-58896a273/) · [Substack](https://neurabridge.substack.com) · [X](https://x.com/julius_brussee?s=21)
 ---
 
 ## Projects
