@@ -22,6 +22,12 @@ Claude Code plugin that turns natural language into blueprints, blueprints into 
 `Go` `Claude Code` `Codex`
 <br>Featured on: [![awesome-codex-plugins](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square&logo=github&label=awesome-codex-plugins&color=f0a500)](https://github.com/hashgraph-online/awesome-codex-plugins)
 
+### [Cavemem](https://github.com/JuliusBrussee/cavemem) — cross-agent persistent memory for coding assistants
+
+Local-first memory layer that captures observations from your editor sessions, stores them compressed via the Caveman grammar in SQLite + FTS5, and serves them back through an MCP server. Same context across Claude Code, Cursor, and Codex — without the token bloat.
+
+`TypeScript` `MCP` `SQLite` `pnpm`
+
 ### [Revu](https://github.com/JuliusBrussee/revu-swift) — local-first spaced repetition for macOS
 
 Decks, cards, exams, study guides, and FSRS-powered review sessions in one desktop workspace. Open-source core with a commercial product at [revu.cards](https://revu.cards).
