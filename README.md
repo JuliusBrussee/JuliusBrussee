@@ -28,6 +28,12 @@ Local-first memory layer that captures observations from your editor sessions, s
 
 `TypeScript` `MCP` `SQLite` `pnpm`
 
+### [Pitchr](https://github.com/JuliusBrussee/pitchr) — AI pitch coach for founders
+
+Record or paste a pitch, get an investor-grade score out of 100, ranked fixes, a rewritten script, and delivery metrics. Five-category rubric (structure, clarity, evidence, market, delivery), live VC Q&A simulator, deck-aware scoring. Developed at HackEurope 2026 with [@LucasDuys](https://github.com/LucasDuys) and [@aravmdn](https://github.com/aravmdn).
+
+`Next.js` `React` `TypeScript` `Supabase` `Claude` `AssemblyAI` `Stripe`
+
 ### [Revu](https://github.com/JuliusBrussee/revu-swift) — local-first spaced repetition for macOS
 
 Decks, cards, exams, study guides, and FSRS-powered review sessions in one desktop workspace. Open-source core with a commercial product at [revu.cards](https://revu.cards).
