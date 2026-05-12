@@ -30,7 +30,7 @@ Local-first memory layer that captures observations from your editor sessions, s
 
 ### [Pitchr](https://github.com/JuliusBrussee/pitchr) — AI pitch coach for founders
 
-Record or paste a pitch, get an investor-grade score out of 100, ranked fixes, a rewritten script, and delivery metrics. Five-category rubric (structure, clarity, evidence, market, delivery), live VC Q&A simulator, deck-aware scoring. Developed at HackEurope 2026 with [@LucasDuys](https://github.com/LucasDuys) and [@aravmdn](https://github.com/aravmdn).
+Record or paste a pitch, get an investor-grade score out of 100, ranked fixes, a rewritten script, and delivery metrics. Five-category rubric (structure, clarity, evidence, market, delivery), live VC Q&A simulator, deck-aware scoring. Developed at HackEurope 2026 with [@LucasDuys](https://github.com/LucasDuys), [@aravmdn](https://github.com/aravmdn), and [@Movenanter](https://github.com/Movenanter).
 
 `Next.js` `React` `TypeScript` `Supabase` `Claude` `AssemblyAI` `Stripe`
 
