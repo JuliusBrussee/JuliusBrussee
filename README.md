@@ -28,6 +28,13 @@ Local-first memory layer that captures observations from your editor sessions, s
 
 `TypeScript` `MCP` `SQLite` `pnpm`
 
+### [Cavegemma](https://github.com/JuliusBrussee/finetune-caveman) — Gemma 4 31B fine-tuned to talk caveman
+
+QLoRA fine-tune of Gemma 4 31B on aligned baseline↔caveman pairs from the [Caveman](https://github.com/JuliusBrussee/caveman) skill. Same compression baked into weights — no system prompt needed. LoRA adapter and merged bf16 weights shipped on Hugging Face.
+
+`Python` `PyTorch` `transformers` `TRL` `PEFT`
+<br>[![HF adapter](https://img.shields.io/badge/🤗-gemma--4--31B--caveman--lora-yellow?style=flat-square)](https://huggingface.co/JBrussee/gemma-4-31B-caveman-lora) [![HF merged](https://img.shields.io/badge/🤗-gemma--4--31B--caveman-yellow?style=flat-square)](https://huggingface.co/JBrussee/gemma-4-31B-caveman)
+
 ### [Pitchr](https://github.com/JuliusBrussee/pitchr) — AI pitch coach for founders
 
 Record or paste a pitch, get an investor-grade score out of 100, ranked fixes, a rewritten script, and delivery metrics. Five-category rubric (structure, clarity, evidence, market, delivery), live VC Q&A simulator, deck-aware scoring. Developed at HackEurope 2026 with [@LucasDuys](https://github.com/LucasDuys), [@aravmdn](https://github.com/aravmdn), and [@Movenanter](https://github.com/Movenanter).
